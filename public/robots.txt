@@ -1,0 +1,6 @@
+# robots.txt for Tradition, Rewired
+# Generated dynamically for: https://tradition-rewired.vercel.app
+User-agent: *
+Allow: /
+
+Sitemap: https://tradition-rewired.vercel.app/sitemap.xml

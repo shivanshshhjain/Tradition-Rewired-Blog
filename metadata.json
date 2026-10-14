@@ -1,0 +1,6 @@
+{
+  "name": "Tradition, Rewired",
+  "description": "Where traditional business meets the technology of tomorrow. An editorial publication on thoughtful modernization, AI adoption, and scalable legacy innovation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
