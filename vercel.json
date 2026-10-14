@@ -7,6 +7,11 @@
       "source": "/old-home",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/old-home/(.*)",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
